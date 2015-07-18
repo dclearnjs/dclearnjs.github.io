@@ -11,7 +11,6 @@ Here you can find talks, slideshows, and notes from past meet ups.
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
