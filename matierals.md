@@ -3,7 +3,6 @@ layout: page
 title: Materials
 permalink: /materials/
 ---
-# Materials  
 
 Here you can find talks, slideshows, and notes from past meet ups.
 
