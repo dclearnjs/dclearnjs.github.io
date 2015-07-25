@@ -6,6 +6,7 @@ categories: javascript
 ---
 
 # Don't Call Us, We'll Call You
+
 ## Library
 - Performs a specific operation
 - Re-usable code or a collection of routines
@@ -17,9 +18,10 @@ categories: javascript
 - Helps add consistency to the project
 - Can contain a library
 
-### Don't Call us: 
+### Don't Call us:
 Framework: You don't ask the framework to do anything, it waits for your code and then runs it through it's skeleton and prints it to the page.
-### We'll Call You: 
+
+### We'll Call You:
 Library: You ask the library to help you do a specific task by calling it.
 
 ## Reading Material
