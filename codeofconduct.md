@@ -13,6 +13,7 @@ This code of conduct applies to all learn.js spaces, including our mailing lists
 Some learn.js spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.  
 
 **Harassment includes:**  
+
 1. Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion  
 2. Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.  
 3. Deliberate misgendering or use of ‘dead’ or rejected names  
@@ -31,10 +32,11 @@ Some learn.js spaces may have additional rules in place, which will be made clea
 16. Publication of non-harassing private communication  
 
 learn.js prioritizes marginalized people’s safety over privileged people’s comfort. learn.js organizers will not act on complaints regarding:  
-+‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’  
-+Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”  
-+Communicating in a ‘tone’ you don’t find congenial  
-+Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions  
+
+- ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’  
+- Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”  
+- Communicating in a ‘tone’ you don’t find congenial  
+- Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions  
 
 **Reporting**  
 If you are being harassed by a member of learn.js, notice that someone else is being harassed, or have any other concerns, please contact the learn.js organizers at dclearnjs@gmail.com. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
